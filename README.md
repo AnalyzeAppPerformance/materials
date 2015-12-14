@@ -1,3 +1,10 @@
 # Tools
 
+* [GIT](https://git-scm.com/downloads)
+* [Attlasian Git Training](https://www.atlassian.com/git/tutorials/)
+* [Interactive Git Curse](https://try.github.io/levels/1/challenges/1)
 * [FishShell](http://fishshell.com)
+* [How to install Java on Linux](http://tecadmin.net/install-oracle-java-8-jdk-8-ubuntu-via-ppa/)
+* [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+* [Maven](https://maven.apache.org)
+* [MavenRepository](http://mvnrepository.com)
