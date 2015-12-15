@@ -8,3 +8,9 @@
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 * [Maven](https://maven.apache.org)
 * [MavenRepository](http://mvnrepository.com)
+
+
+
+# Slides
+
+* [Maven](maven-prezentacja.pdf)
