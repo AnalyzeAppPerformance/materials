@@ -15,6 +15,7 @@
 * [Selenium WebDriver](http://www.seleniumhq.org/projects/webdriver/)
 * [Cucumber](https://cucumber.io/)
 * [PicoContainer](http://picocontainer.com/)
+* [AAA](http://c2.com/cgi/wiki?ArrangeActAssert)
 
 
 # Testing Cup 
