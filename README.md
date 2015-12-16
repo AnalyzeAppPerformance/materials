@@ -23,8 +23,9 @@
 * [http://testingcup.pgs-soft.com/](http://testingcup.pgs-soft.com/)
 * [http://buggy-testingcup.pgs-soft.com/](http://buggy-testingcup.pgs-soft.com/)
  
+# Useful browsers addons
 
-
+* [FireBug for FireFox](https://addons.mozilla.org/en/firefox/addon/firebug/)
 * [OctoTree](https://github.com/buunguyen/octotree)
 
 # Slides
