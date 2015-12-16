@@ -8,8 +8,23 @@
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 * [Maven](https://maven.apache.org)
 * [MavenRepository](http://mvnrepository.com)
+* [JUnit](http://junit.org/)
+* [TestNG](http://testng.org/doc/index.html)
+* [Unitils](http://unitils.org/summary.html)
+* [Selenium](http://www.seleniumhq.org/)
+* [Selenium WebDriver](http://www.seleniumhq.org/projects/webdriver/)
+* [Cucumber](https://cucumber.io/)
+* [PicoContainer](http://picocontainer.com/)
 
 
+# Testing Cup 
+
+* [http://testingcup.pgs-soft.com/](http://testingcup.pgs-soft.com/)
+* [http://buggy-testingcup.pgs-soft.com/](http://buggy-testingcup.pgs-soft.com/)
+ 
+
+
+* [OctoTree](https://github.com/buunguyen/octotree)
 
 # Slides
 
