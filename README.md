@@ -16,7 +16,7 @@
 * [Cucumber](https://cucumber.io/)
 * [PicoContainer](http://picocontainer.com/)
 * [AAA](http://c2.com/cgi/wiki?ArrangeActAssert)
-
+* [Tools for QA Specialist](http://toolsqa.com/)
 
 # Testing Cup 
 
