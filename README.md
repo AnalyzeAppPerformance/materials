@@ -40,4 +40,6 @@
 
 # Slides
 
+* [Introduction](introduction.pdf)
+* [GIT](git.pdf)
 * [Maven](maven-prezentacja.pdf)
