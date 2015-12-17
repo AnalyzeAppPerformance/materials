@@ -1,3 +1,8 @@
+# Contact with teachers
+
+* Artur Panek ``apanek [at] pgs-soft.com``
+* Michal Szczur ``job [at] michalszczur.pl``
+
 # Tools
 
 * [GIT](https://git-scm.com/downloads)
@@ -18,6 +23,10 @@
 * [AAA](http://c2.com/cgi/wiki?ArrangeActAssert)
 * [Tools for QA Specialist](http://toolsqa.com/)
 * [BDD Editor](http://www.bddeditor.com/)
+* [Vagrant](https://vagrantup.com)
+* [Ansible](https://docs.ansible.com)
+* [Install Jenkins on Debian/Ubuntu](http://pkg.jenkins-ci.org/debian/)
+
 
 # Testing Cup 
 
