@@ -17,13 +17,14 @@
 * [PicoContainer](http://picocontainer.com/)
 * [AAA](http://c2.com/cgi/wiki?ArrangeActAssert)
 * [Tools for QA Specialist](http://toolsqa.com/)
+* [BDD Editor](http://www.bddeditor.com/)
 
 # Testing Cup 
 
 * [http://testingcup.pgs-soft.com/](http://testingcup.pgs-soft.com/)
 * [http://buggy-testingcup.pgs-soft.com/](http://buggy-testingcup.pgs-soft.com/)
  
-# Useful browsers addons
+# Useful browser addons
 
 * [FireBug for FireFox](https://addons.mozilla.org/en/firefox/addon/firebug/)
 * [OctoTree](https://github.com/buunguyen/octotree)
