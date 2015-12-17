@@ -1,7 +1,7 @@
 # Contact with teachers
 
-* Artur Panek ``apanek [at] pgs-soft.com``
-* Michal Szczur ``job [at] michalszczur.pl``
+* Artur Panek ``panczur [at] gmail.com`` &&  ``apanek [at] pgs-soft.com`` 
+* Michal Szczur ``job [at] michalszczur.pl`` && ``mszczur [at] pgs-soft.com``
 
 # Tools
 
@@ -42,4 +42,7 @@
 
 * [Introduction](introduction.pdf)
 * [GIT](git.pdf)
-* [Maven](maven-prezentacja.pdf)
+* [Automatyzacja cz. 1](part_1_automatyzacja_testow.pdf)
+* [Maven cz. 2](part_2_maven-prezentacja.pdf)
+* [Testy akceptacyjne cz. 3](part_3_testy_akceptacyjne.pdf)
+* [BDD - Cucumber](part_4_bdd_cucamber.pdf)
