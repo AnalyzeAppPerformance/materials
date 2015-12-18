@@ -27,6 +27,8 @@
 * [Ansible](https://docs.ansible.com)
 * [Install Jenkins on Debian/Ubuntu](http://pkg.jenkins-ci.org/debian/)
 * [Apache2 Utils](https://httpd.apache.org/docs/2.2/programs/ab.html)
+* [Regex Visualizer](http://regexper.com)
+* [Regex Validator](https://regex101.com)
 
 # Testing Cup 
 
