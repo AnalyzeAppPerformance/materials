@@ -46,3 +46,4 @@
 * [Maven cz. 2](part_2_maven-prezentacja.pdf)
 * [Testy akceptacyjne cz. 3](part_3_testy_akceptacyjne.pdf)
 * [BDD - Cucumber](part_4_bdd_cucamber.pdf)
+* [Jenkins](jenkins.pdf)
